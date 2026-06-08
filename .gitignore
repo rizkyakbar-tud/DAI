@@ -351,3 +351,4 @@ exercises/cache/
 
 .venv.DS_Store
 mission/data/
+**/.DS_Store
