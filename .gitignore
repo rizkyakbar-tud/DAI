@@ -349,5 +349,7 @@ cython_debug/
 exercises/decision_tree.dot
 exercises/cache/
 
+.venv
+data/data_project
 .venv.DS_Store
 mission/data/
