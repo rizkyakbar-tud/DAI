@@ -349,18 +349,11 @@ cython_debug/
 exercises/decision_tree.dot
 exercises/cache/
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+.venv
+data/data_project
 .venv.DS_Store
-mission/data/
 **/.DS_Store
-=======
-.venv
-data/data_project
->>>>>>> origin/kajetan_branch
-=======
-.venv
-data/data_project
-.venv.DS_Store
 mission/data/
->>>>>>> main
+mission/data/model_cache/
+*.joblib
+optuna_studies.db
